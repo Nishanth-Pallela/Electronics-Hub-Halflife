@@ -1,6 +1,6 @@
 # Electronics-Hub-Halflife
 
-
+![Isometric Render](Picture.png)
 
 
 This is a little project I made to organize my stuff. It has a custom XBOX Series S slot with some airflow and a space for my laptop to charge.
